@@ -1,4 +1,2 @@
-晚上好！cary正在学习中。。。
-现在是22:04分，cary第一次进来修改
-又过去两分钟，cary第二次进来修改
-cary又来了，哈哈哈~  略略略略略略略略
+Git is a distributed version control system
+Git is free software.
